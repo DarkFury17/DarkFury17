@@ -1,4 +1,4 @@
-# Ciao, sono Marco! 👋
+# Ciao, sono Marco!
 
 ### 👨‍💻 Studente di Informatica e Tecnologie per la Produzione del Software @ UNIBA
 Appassionato di programmazione, assemblaggio PC e del mondo automotive. Mi piace esplorare come il software possa ottimizzare i sistemi complessi.
