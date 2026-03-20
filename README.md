@@ -29,4 +29,4 @@ Appassionato di programmazione, assemblaggio PC e del mondo automotive. Mi piace
 ---
 
 ### 📫 Contattami
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/dipalmamarco)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipalmamarco)
