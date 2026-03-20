@@ -21,7 +21,7 @@ Appassionato di programmazione, assemblaggio PC e del mondo automotive. Mi piace
 
 ---
 
-### 🏎️ Altro su di me
+### Altro su di me
 * 🖥️ Mi diverto ad assemblare e ottimizzare PC (attualmente su build Ryzen/RTX).
 * 🏎️ Grande fan della **Formula 1** e del mondo automobilistico.
 * 📍 Bari, Italia.
