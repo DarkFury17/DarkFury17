@@ -16,16 +16,15 @@ Appassionato di programmazione, assemblaggio PC e del mondo automotive. Mi piace
 ---
 
 ### 🚀 Progetti in Evidenza
-* **[Weather Station Networking](https://github.com/DarkFury17/weather-station-networking)** - Un progetto focalizzato sulla gestione dei dati meteo via rete.
 * **EnjoyourCoffee** - Sviluppo software orientato all'esperienza utente.
+* **[Weather Station Networking](https://github.com/DarkFury17/weather-station-networking)** - Un progetto focalizzato sulla gestione dei dati meteo via rete.
 
 ---
 
 ### Altro su di me
 * 🖥️ Mi diverto ad assemblare e ottimizzare PC (attualmente su build Ryzen/RTX).
 * 🏎️ Grande fan della Formula 1 e del mondo automobilistico.
-* 📍 Vivo a Bari, Italia.
-
+* 🧠​​ Sempre pronto a imparare!
 ---
 
 ### 📫 Contattami
