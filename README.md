@@ -25,7 +25,7 @@ Focused on software engineering, distributed systems, and modern web development
   *PHP • MySQL • Security Hardening*  
   Full-featured e-commerce platform built with role-based access control, secure transaction handling, and optimized asset pipelines.
 
-- **UniPlan** *(or your latest production app)*  
+- **UniPlan** *(in progress...)*  
   *React • TypeScript • Fastify • Tailwind CSS*  
   Full-stack academic planning and scheduling tool driven by automated constraint validation and dependency tracking.
 
