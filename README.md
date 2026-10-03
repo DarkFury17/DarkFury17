@@ -21,7 +21,7 @@ Focused on software engineering, distributed systems, and modern web development
   *C • Sockets • Network Programming*  
   Multi-threaded TCP/UDP server infrastructure designed for concurrent telemetry ingestion, weather data processing, and reliable transmission.
 
-- **EnjoyourCoffee**  
+- **[EnjoyourCoffee](https://github.com/DarkFury17/EnjoyourCoffee)**  
   *PHP • MySQL • Security Hardening*  
   Full-featured e-commerce platform built with role-based access control, secure transaction handling, and optimized asset pipelines.
 
