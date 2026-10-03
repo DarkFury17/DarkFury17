@@ -1,32 +1,54 @@
-# Ciao, sono Marco!
+# Hi, I'm Marco Di Palma 👋
 
-### 👨‍💻 Studente di Informatica e Tecnologie per la Produzione del Software @ UNIBA
-Appassionato di programmazione, assemblaggio PC e del mondo automotive. Mi piace esplorare come il software possa ottimizzare i sistemi complessi.
+**Computer Science Student @ University of Bari Aldo Moro**  
+Focused on software engineering, distributed systems, and modern web development.
 
 ---
 
-### 🛠️ Le mie Competenze (Tech Stack)
+### 🛠️ Tech Stack & Tooling
 
-| Area | Tecnologie |
+| Domain | Technologies |
 | :--- | :--- |
-| **Linguaggi** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Sistemi & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
-| **Hardware** | Custom PC Building & Troubleshooting |
+| **Languages** | `C` `Java` `Python` `TypeScript` `JavaScript` `PHP` `SQL` |
+| **Frameworks & Libraries** | `React` `Next.js` `Fastify` `Node.js` `Tailwind CSS` |
+| **Tools & Platforms** | `Git` `GitHub` `Docker` `PostgreSQL` `Linux` |
 
 ---
 
-### 🚀 Progetti in Evidenza
-* **EnjoyourCoffee** - Sviluppo software orientato all'esperienza utente.
-* **[Weather Station Networking](https://github.com/DarkFury17/weather-station-networking)** - Un progetto focalizzato sulla gestione dei dati meteo via rete.
+### 🚀 Featured Projects
+
+- **[Weather Station Networking Suite](https://github.com/DarkFury17/weather-station-networking-suite)**  
+  *C • Sockets • Network Programming*  
+  Multi-threaded TCP/UDP server infrastructure designed for concurrent telemetry ingestion, weather data processing, and reliable transmission.
+
+- **EnjoyourCoffee**  
+  *PHP • MySQL • Security Hardening*  
+  Full-featured e-commerce platform built with role-based access control, secure transaction handling, and optimized asset pipelines.
+
+- **UniPlan** *(or your latest production app)*  
+  *React • TypeScript • Fastify • Tailwind CSS*  
+  Full-stack academic planning and scheduling tool driven by automated constraint validation and dependency tracking.
 
 ---
 
-### Altro su di me
-* 🖥️ Mi diverto ad assemblare e ottimizzare PC (attualmente su build Ryzen/RTX).
-* 🏎️ Grande fan della Formula 1 e del mondo automobilistico.
-* 🧠​​ Sempre pronto a imparare!
+### 📌 About & Interests
+
+- 💻 Developing full-stack web applications and low-level networked tools.
+- ⚙️ Hardware enthusiast: custom PC building, performance tuning, and automotive engineering.
+- 🎯 Always open to collaborating on open-source initiatives and scalable backend systems.
+
 ---
 
-### 📫 Contattami
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipalmamarco)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=vercel&logoColor=white)](https://portfolio-dipalma.netlify.app/#projects)
+### 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/dipalmamarco" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-dipalma.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:mdipalma62@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
